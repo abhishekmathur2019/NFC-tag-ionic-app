@@ -1,1 +1,0 @@
-# NFC-tag-ionic-app
